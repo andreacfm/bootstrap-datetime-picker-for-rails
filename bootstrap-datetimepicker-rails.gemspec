@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = BootstrapDatetimepickerRails::VERSION
   s.authors     = ['Andrea Campolonghi']
   s.email       = %w(acampolonghi@gmail.com)
-  s.homepage    = "TODO"
+  s.homepage    = "https://github.com/andreacfm/bootstrap-datetimepicker-rails"
   s.summary     = "Add http://www.malot.fr/bootstrap-datetimepicker/ to the rails asset pipeline "
   s.description = "Add http://www.malot.fr/bootstrap-datetimepicker/ to the rails asset pipeline "
 
