@@ -5,7 +5,7 @@ require "bootstrap-datetimepicker-rails/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "bootstrap-datetimepicker-rails"
+  s.name        = "bootstrap-datetime-picker-for-rails"
   s.version     = BootstrapDatetimepickerRails::VERSION
   s.authors     = ['Andrea Campolonghi']
   s.email       = %w(acampolonghi@gmail.com)
