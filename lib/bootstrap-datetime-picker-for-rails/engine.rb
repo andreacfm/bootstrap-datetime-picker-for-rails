@@ -1,4 +1,4 @@
-module BootstrapDatetimepickerRails
+module BootstrapDatetimePickerForRails
   class Engine < ::Rails::Engine
   end
 end

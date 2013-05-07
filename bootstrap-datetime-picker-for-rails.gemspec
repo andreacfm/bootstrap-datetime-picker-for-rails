@@ -1,15 +1,15 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 # Maintain your gem's version:
-require "bootstrap-datetimepicker-rails/version"
+require "bootstrap-datetime-picker-for-rails/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "bootstrap-datetime-picker-for-rails"
-  s.version     = BootstrapDatetimepickerRails::VERSION
+  s.version     = BootstrapDatetimePickerForRails::VERSION
   s.authors     = ['Andrea Campolonghi']
   s.email       = %w(acampolonghi@gmail.com)
-  s.homepage    = "https://github.com/andreacfm/bootstrap-datetimepicker-rails"
+  s.homepage    = "https://github.com/andreacfm/bootstrap-datetime-picker-for-rails"
   s.summary     = "Add http://www.malot.fr/bootstrap-datetimepicker/ to the rails asset pipeline "
   s.description = "Add http://www.malot.fr/bootstrap-datetimepicker/ to the rails asset pipeline "
 
