@@ -10,14 +10,10 @@ Gem::Specification.new do |s|
   s.authors     = ['Andrea Campolonghi']
   s.email       = %w(acampolonghi@gmail.com)
   s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of BootstrapDatetimepickerRails."
-  s.description = "TODO: Description of BootstrapDatetimepickerRails."
+  s.summary     = "Add http://www.malot.fr/bootstrap-datetimepicker/ to the rails asset pipeline "
+  s.description = "Add http://www.malot.fr/bootstrap-datetimepicker/ to the rails asset pipeline "
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{vendor,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
-
   s.add_dependency "rails", "~> 3.2.13"
-  # s.add_dependency "jquery-rails"
-
-  s.add_development_dependency "sqlite3"
 end
